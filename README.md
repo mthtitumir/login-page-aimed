@@ -1,6 +1,6 @@
-# React + Vite
+# Login page task Aimed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Technologies:  React Styled Components / TailwindCSS / Raw CSS / React + Vite
 
 Currently, two official plugins are available:
 
